@@ -19,4 +19,3 @@
 	- Nếu 1 chữ Hán có nhiều âm đọc và các âm có ý nghĩa, cách dùng khác nhau trong câu nói thì có thể cân nhắc tạo thêm chữ để làm rõ ràng các nghĩa, chữ phân biệt này phải có 1 phần thị giác, cách cấu tạo tương đồng với chữ Hán gốc
 7. **Ưu tiên đơn giản:**
 	- Từ phổ biến chọn tượng hình, hội ý, chỉ sự. Từ ít gặp chọn hình thanh.
- - 
