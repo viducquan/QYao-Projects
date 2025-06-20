@@ -2,7 +2,7 @@
 
 **QMuen** là một bộ **chữ viết dành riêng cho tiếng Dao** *(bao gồm tất cả người nói tiếng Dao)*, được thiết kế với mục tiêu bảo tồn ngôn ngữ và văn hóa Dao thông qua một hệ thống chữ **biểu ý – biểu âm** tương tự như Nôm Dao. Đây là nỗ lực hiện đại nhằm số hóa và phục hưng ngôn ngữ của người Dao trên khắp thế giới.
 > `QMuen` là tên mã, **Chữ Dao Vuông** là tên của bộ chữ viết mới này.
-# Nguyên tắc tiêu chuẩn hóa
+## Nguyên tắc tiêu chuẩn hóa
 - Xem [Nguyên tắc tiêu chuẩn hóa](qmuen-standard.md).
 ## Giới thiệu
 
